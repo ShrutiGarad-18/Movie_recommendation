@@ -22,20 +22,6 @@ Columns include userId, movieId, rating, and timestamp.
 The recommendation system predicts top-rated movies for users using collaborative filtering.
 Provides accurate suggestions based on user behavior and preferences.
 
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
-Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Open the Jupyter notebooks:
-
 data_acquisition_cleaning.ipynb: To clean the datasets.
 recommendation_system.ipynb: To run the recommendation system.
 
